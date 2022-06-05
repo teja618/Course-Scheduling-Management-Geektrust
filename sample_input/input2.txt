@@ -1,0 +1,4 @@
+/*Please add your sample inputs 
+here specific to the problem statement*/
+<INPUT_COMMAND_1> <ARGUMENTS>
+<INPUT_COMMAND_2> <ARGUMENTS>
