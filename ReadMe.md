@@ -1,4 +1,4 @@
-Course Scheduling Management - LLD
+# Course Scheduling Management - LLD
 
 Machine Coding Problem Statement:  https://www.geektrust.com/coding/detailed/intuit-course-scheduling
 
