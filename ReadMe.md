@@ -1,6 +1,13 @@
 # Course Scheduling Management - LLD
 
 Machine Coding Problem Statement:  https://www.geektrust.com/coding/detailed/intuit-course-scheduling
+This problem is solved during Code with Geektrust Hackathon on June 10 2022. 
+The low level design code reads data input from file . After reading the input commands, processes them & prints output on command line interface.
+
+This code has earned all the badges : Object Modelling , Readability , Tests , Correctness , Build.
+
+![1658900341032 jpg](https://user-images.githubusercontent.com/28780687/181170158-bcdd63bf-a1a7-48ed-a38f-fc4805656ce2.jpg)
+
 
 # Pre-requisites
 * Java 1.8/1.11/1.15
